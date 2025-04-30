@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/FAISS-0052CC?style=flat&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white"/>
@@ -51,18 +50,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajendradayma&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendradayma&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajendradayma&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendradayma&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📧 Email: rajendradayma03@gmail.com  
+- 📧 Email: **rajendradayma03@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/rajendradayma](https://linkedin.com/in/rajendradayma)  
-- 📦 GitHub: [github.com/rajendradayma](https://github.com/rajendradayma)  
+- 📦 GitHub: [github.com/rajendradayma](https://github.com/rajendradayma)
 
 ---
 
-⭐ *If you like my work, consider giving a ⭐ to [LLM-Based-RAG-System](https://github.com/rajendradayma/LLM-Based-RAG-System)*  
+⭐ *If you like my work, consider giving a ⭐ to [LLM-Based-RAG-System](https://github.com/rajendradayma/LLM-Based-RAG-System)*
+
