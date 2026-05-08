@@ -51,6 +51,20 @@
   <img src="https://img.shields.io/badge/Knowledge%20Graphs-GraphRAG-ff6f00?style=flat-square" />
 </p>
 
+### **🗄️ Databases & Vector Stores**
+<p align="left">
+  <img src="https://img.shields.io/badge/ChromaDB-0052CC?style=flat&logo=chroma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+### **☁️ Deployment & MLOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+</p>
 ---
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
