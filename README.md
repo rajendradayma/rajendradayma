@@ -90,12 +90,16 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajendradayma&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendradayma&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajendradayma&show_icons=true&theme=tokyonight&count_private=true" alt="Rajendra's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendradayma&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
 </p>
 
+### **🔥 Streak & Contributions**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendradayma&theme=tokyonight" alt="GitHub Streak" />
+</p>
 ---
 
 ## 🌐 Connect with Me
