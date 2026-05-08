@@ -23,7 +23,35 @@
 ---
 
 ## 🚀 Languages & Tools
+---
 
+### **GenAI & Agentic Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2D2D2D?style=flat&logo=graph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llama" />
+  <img src="https://img.shields.io/badge/Ragas-FF4B4B?style=flat&logo=evaluation" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+</p>
+
+### **Core Data Science & Deep Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/FAISS-0052CC?style=flat&logo=databricks&logoColor=white" />
+</p>
+
+### **Architecture & Security**
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/RBAC-Access%20Control-00b8d4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graphs-GraphRAG-ff6f00?style=flat-square" />
+</p>
+
+---
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
