@@ -92,9 +92,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajendradayma&show_icons=true&theme=tokyonight" alt="Rajendra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajendradayma&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=9ece6a" alt="Rajendra's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendradayma&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendradayma&layout=compact&theme=tokyonight&hide=html,css&bg_color=1a1b27&title_color=70a5fd&text_color=9ece6a" alt="Most Used Languages" />
 </p>
 
 ## 🔥 Streak & Contributions
