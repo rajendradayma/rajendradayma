@@ -107,7 +107,7 @@
 ## 🌐 Connect with Me
 
 - 📧 Email: **rajendradayma03@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/rajendra-dayma](https://linkedin.com/in/rajendra-dayma)  
+- 💼 LinkedIn: [Rajendra Dayma](https://linkedin.com/in/rajendra-dayma)  
 - 📦 GitHub: [github.com/rajendradayma](https://github.com/rajendradayma)
 
 ---
